@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
-$db   = 'your_database_name';
-$user = 'your_username';
+$db   = 'pets_information';
+$user = 'f07f570e7afc80002d5b27548832';
 $pass = 'your_password';
 $charset = 'utf8mb4';
 
